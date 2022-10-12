@@ -1,3 +1,3 @@
-# 5to Festival de Videopoesía UNGS
+# 6to Festival de Videopoesía UNGS
 
-https://desarrollosparaartesvisuales.github.io/5toFestivaldeVideopoesiaUNGS/index.html
+https://desarrollosparaartesvisuales.github.io/6toFestivaldeVideopoesiaUNGS/index.html
